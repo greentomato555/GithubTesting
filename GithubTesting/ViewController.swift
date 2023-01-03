@@ -14,10 +14,6 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-    func firstFunction() {
-        print("hello world")
-    }
-
     func createdThisFunction(){
         print("its here")
     }
