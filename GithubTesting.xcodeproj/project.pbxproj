@@ -13,6 +13,7 @@
 		A1BED71C2963E0C800FF6C29 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1BED71A2963E0C800FF6C29 /* Main.storyboard */; };
 		A1BED71E2963E0C900FF6C29 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1BED71D2963E0C900FF6C29 /* Assets.xcassets */; };
 		A1BED7212963E0C900FF6C29 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1BED71F2963E0C900FF6C29 /* LaunchScreen.storyboard */; };
+		A1BED7292963E34300FF6C29 /* NewFileToTestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1BED7282963E34300FF6C29 /* NewFileToTestViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A1BED71D2963E0C900FF6C29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A1BED7202963E0C900FF6C29 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A1BED7222963E0C900FF6C29 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A1BED7282963E34300FF6C29 /* NewFileToTestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewFileToTestViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A1BED7142963E0C800FF6C29 /* AppDelegate.swift */,
 				A1BED7162963E0C800FF6C29 /* SceneDelegate.swift */,
 				A1BED7182963E0C800FF6C29 /* ViewController.swift */,
+				A1BED7282963E34300FF6C29 /* NewFileToTestViewController.swift */,
 				A1BED71A2963E0C800FF6C29 /* Main.storyboard */,
 				A1BED71D2963E0C900FF6C29 /* Assets.xcassets */,
 				A1BED71F2963E0C900FF6C29 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A1BED7292963E34300FF6C29 /* NewFileToTestViewController.swift in Sources */,
 				A1BED7192963E0C800FF6C29 /* ViewController.swift in Sources */,
 				A1BED7152963E0C800FF6C29 /* AppDelegate.swift in Sources */,
 				A1BED7172963E0C800FF6C29 /* SceneDelegate.swift in Sources */,
